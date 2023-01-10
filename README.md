@@ -14,7 +14,7 @@ Mathematician and Ph.D. in Solid Mechanics. Postdoctoral Researcher at [@Sorbonn
 - Twitter: [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/olcruzgonzalez)](https://twitter.com/olcruzgonzalez)
 - Google Scholar: [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 - Researchgate: [![Researchgate](https://img.shields.io/badge/-Researchgate-blue?style=flat-square&logo=Researchgate&logoColor=white&link=https://www.researchgate.net/profile/Oscar-Luis-Cruz-Gonzalez)](https://www.researchgate.net/profile/Oscar-Luis-Cruz-Gonzalez)
-- HAL: [![HAL](https://img.shields.io/badge/-HAL-blue?style=flat-square&logo=HAL&logoColor=white&link=https://hal.archives-ouvertes.fr/search/index/?q=oscar-luis-cruz-gonzalez)](https://hal.archives-ouvertes.fr/search/index/?q=oscar-luis-cruz-gonzalez)
+- HAL: [![HAL](https://img.shields.io/badge/-HAL-blue?style=flat-square&logo=HAL&logoColor=white&link=https://hal.science/search/index/?qa%5Bidentifiers_id%5D%5B%5D=oscar-luis-cruz-gonzalez)](https://hal.science/search/index/?qa%5Bidentifiers_id%5D%5B%5D=oscar-luis-cruz-gonzalez)
 
 
 ## Codes 
