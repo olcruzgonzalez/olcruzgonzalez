@@ -20,3 +20,8 @@ Mathematician and Ph.D. in Solid Mechanics. Postdoctoral Researcher at [@Sorbonn
 ## Codes 
 
 - Open source numerical tools that are useful for conducting my research. 
+
+<p align="left">
+	<img height="180" src="https://github-readme-stats.vercel.app/api?username=olcruzgonzalez&include_all_commits=true&show_icons=true&theme=default#gh-light-mode-only" alt="Github Stats"/>
+	<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olcruzgonzalez&layout=compact&theme=default#gh-light-mode-only" alt="Github Top Languages" />
+</p>
