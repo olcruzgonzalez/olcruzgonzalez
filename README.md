@@ -1,6 +1,6 @@
 # Hi, I’m Oscar
 
-Mathematician and Ph.D. in Solid Mechanics. Postdoctoral Researcher at [@Sorbonne_Univ](https://www.sorbonne-universite.fr/)-[@d_Alembert](http://www.dalembert.upmc.fr/ijlrda/).
+Mathematician and Ph.D. in Solid Mechanics. Postdoctoral Researcher at [@univamu](https://www.univ-amu.fr/), [#IRPHE](https://irphe.univ-amu.fr/) -- [@amseaixmars](https://www.amse-aixmarseille.fr/fr).
 
 ## Topics of interest
 
@@ -19,7 +19,7 @@ Mathematician and Ph.D. in Solid Mechanics. Postdoctoral Researcher at [@Sorbonn
 
 ## Codes 
 
-- Open source numerical tools that are useful for conducting my research. 
+- Open source numerical tools. 
 
 <p align="left">
 	<img height="140" src="https://github-readme-stats.vercel.app/api?username=olcruzgonzalez&hide_border=true&hide_title=true&show_icons=true&theme=default#gh-light-mode-only" alt="Github Stats"/>
