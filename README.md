@@ -5,7 +5,8 @@ Mathematician and Ph.D. in Solid Mechanics. Postdoctoral Researcher at [@univamu
 ## Topics of interest
 
 - Micromechanical and fluid-mechanical models 
-- AI/ML/DL for solving problems in computational mechanics and materials science
+- SciML
+- Applied Mathematics 
 
 ## Contact Information
 
